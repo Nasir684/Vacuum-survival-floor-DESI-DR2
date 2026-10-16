@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23425496.svg)](https://doi.org/10.5281/zenodo.23425496)
 # Distance to Vacuum Survival Floor — DESI DR2
 
 ### Measuring how close we live to the edge of vacuum decay
